@@ -138,8 +138,6 @@ Dedicated this period to serving as primary caregiver for a family member with l
 
 ## PERSONAL PROJECTS
 
-## PERSONAL PROJECTS
-
 ### PM Toolkit
 - Built a public GitHub repository ([pm-toolkit](https://github.com/furqanuetian/pm-toolkit)) with templates, checklists, and guides for Technical Project Managers, grounded in real-world delivery experience on embedded systems and industrial software for US-based enterprise clients.
 - Applied Git workflows (clone, branch, commit, push, pull) and Markdown for version-controlled documentation.
