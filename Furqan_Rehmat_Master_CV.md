@@ -142,6 +142,11 @@ Dedicated this period to serving as primary caregiver for a family member with l
 - Built a public GitHub repository ([pm-toolkit](https://github.com/furqanuetian/pm-toolkit)) with templates, checklists, and guides for Technical Project Managers, grounded in real-world delivery experience on embedded systems and industrial software for US-based enterprise clients.
 - Applied Git workflows (clone, branch, commit, push, pull) and Markdown for version-controlled documentation.
 
+### CV Automation Pipeline
+- Maintains master CV source in public GitHub repository ([cv-master](https://github.com/furqanuetian/cv-master)) with version-controlled Markdown documentation.
+- Built a Python script (private repo) to automate generation of DOCX and PDF outputs from Markdown source.
+- Applied Git workflows and Python scripting for document automation and workflow efficiency.
+
 ### PSM I Study Repository
 - Built a public GitHub repository ([psm1-study-guide](https://github.com/furqanuetian/psm1-study-guide)) to document PSM I certification preparation, including study plan, Scrum glossary, and daily learning notes.
 - Applied Git workflows (clone, branch, commit, push, pull) and Markdown for version-controlled documentation.
