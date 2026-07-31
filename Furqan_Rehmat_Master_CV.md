@@ -1,7 +1,7 @@
 # FURQAN REHMAT
 **Technical Project Manager | Embedded Systems | Industrial Software**
 
-Location: Lahore, Pakistan | Phone: +92 311 4596163 | Email: [furqanuetian@hotmail.com](mailto:furqanuetian@hotmail.com)
+Location: Lahore, Pakistan | Email: [furqanuetian@hotmail.com](mailto:furqanuetian@hotmail.com)
 GitHub: [furqanuetian](https://github.com/furqanuetian) | Notion Portfolio: [Furqan Rehmat — Portfolio](https://glow-potential-c65.notion.site/Furqan-Rehmat-Portfolio-3873d6c3ef738044a9f0ddf11ce00c48)
 
 ---
