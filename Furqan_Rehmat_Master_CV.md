@@ -8,13 +8,15 @@ GitHub: [furqanuetian](https://github.com/furqanuetian) | Notion Portfolio: [Fur
 
 ## PROFESSIONAL SUMMARY
 
-University Gold Medalist and Technical Project Manager with experience delivering complex software and systems integration projects for US-based enterprise clients. Proven track record of leading cross-functional teams, managing requirements engineering, and driving accountability in embedded systems and industrial software environments. Expert in SDLC governance, stakeholder management, and process optimization. Known for unblocking stalled technical programs, aligning stakeholders, and delivering complex projects in regulated and industrial environments.
+University Gold Medalist and Technical Project Manager with experience delivering complex embedded systems, hardware-software integration, and industrial software projects for US-based enterprise clients. Proven track record of leading cross-functional teams across mechanical, hardware, firmware, and software layers — managing requirements engineering, coordinating multi-disciplinary delivery, and driving accountability in regulated, safety-critical manufacturing environments. Strong background in SDLC governance, stakeholder management, and process optimization. Known for unblocking stalled technical programs, aligning globally distributed stakeholders, and delivering complex projects under hard manufacturing and compliance deadlines.
 
 ---
 
 ## KEY ACHIEVEMENTS
 
-- Delivered 20+ technical packages for US industrial client, protecting critical Q3 compliance milestone
+- Automated ~300 manual V&V test cases for Gas Monitor hardware using BDD/HiL framework
+- Delivered end-to-end manufacturing pipeline covering hardware self-testing, device provisioning, and production firmware deployment across 3 instruments
+- Delivered programming fixtures for Gas Monitor and DAS3 sensors meeting manufacturing Takt time requirements
 - Reduced blocker resolution time by 66% (3 days → same-day) through dashboard redesign
 - Achieved ~25% reduction in design rework via Figma-based requirements validation
 - Ranked 1st Overall in Electronics Engineering — University Gold Medalist
@@ -30,7 +32,7 @@ University Gold Medalist and Technical Project Manager with experience deliverin
 
 ## INDUSTRY EXPOSURE
 
-Industrial Software • Embedded Systems • Verification & Validation (V&V) • HiL Testing • NFC Integration • Hardware/Software Systems • Enterprise SaaS • Safety-Critical Environments
+Industrial Software • Embedded Systems • Verification & Validation (V&V) • HiL Testing • BDD Test Automation (Reqnroll/Gherkin) • Manufacturing Test Firmware • Device Provisioning • AWS S3 & Cloud-Backed Manufacturing Pipelines • Hardware/Software Integration • NFC & BLE Integration • Safety-Critical Environments • Enterprise SaaS
 
 ---
 
@@ -39,7 +41,8 @@ Industrial Software • Embedded Systems • Verification & Validation (V&V) •
 - **Program Delivery:** Agile/Scrum Facilitation, Sprint Planning, Velocity Tracking, Blocker Removal, Release Management
 - **Requirements Engineering:** Requirements Gathering, Gap Analysis, Technical Documentation, User Stories, PRDs
 - **Risk & Stakeholder Management:** Risk Mitigation, C-Level Reporting, Client Communication, Cross-Functional Leadership
-- **Embedded Systems & Industrial Software:** Hardware/Software Integration, Verification & Validation (V&V), HiL Testing, Safety-Critical Systems, Systems Engineering
+- **Embedded Systems & Industrial Software:** Hardware/Software Integration, Verification & Validation (V&V), HiL Testing, Manufacturing Test Firmware, Device Provisioning, Safety-Critical Systems, Systems Engineering
+- **Mechanical & Hardware Coordination:** Custom PCBA Coordination, Mechanical Fixture Design Oversight, STM32 Firmware Delivery Management, BDD Test Automation
 
 ---
 
@@ -47,8 +50,9 @@ Industrial Software • Embedded Systems • Verification & Validation (V&V) •
 
 - **Project Management:** JIRA, Confluence, MS Project
 - **Collaboration:** Google Workspace
-- **Development Tools:** Git, GitHub, Markdown
-- **Automation:** Python (basic scripting), Claude, ChatGPT, Copilot
+- **Development Tools:** Git, GitHub, Bitbucket, Markdown
+- **Cloud:** AWS S3
+- **Automation:** Python (basic scripting), AI-assisted workflow automation
 - **Design:** Figma
 - **Office:** Advanced Excel
 
@@ -59,10 +63,14 @@ Industrial Software • Embedded Systems • Verification & Validation (V&V) •
 ### Technical Project Manager | Agile Delivery Lead
 **Powersoft19** | *Feb 2025 – Jun 2026 | Lahore, Pakistan*
 
-- **Agile Delivery & Facilitation:** Lead sprint cycles, track progress, and remove blockers for an 11–15 member cross-functional team. Reduced blocker resolution time by 66% (3 days → same-day) through dashboard redesign. Managed delivery across 3 concurrent enterprise client programs.
-- **Requirements Engineering & Stakeholder Management:** Serve as point of contact for stakeholders, gather requirements, conduct gap analysis, and recommend improvements. Developed PRDs and user stories for a US-based industrial client's V&V test suite overhaul. Leveraged Figma-based wireframing to validate feature flows, reducing requirement ambiguity and design rework by ~25%. Created SOPs and standardized workflows that reduced deliverable rework by ~20%.
-- **Release Coordination:** Coordinated software releases across embedded, QA, and client-facing teams, ensuring smooth deployments and post-release stability.
-- **Systems & Automation:** Build dashboards, track KPIs, and leverage AI-assisted tools (Claude, ChatGPT, Copilot) for workflow automation and productivity. Reduced manual reporting effort by ~30%.
+*Delivered embedded systems and industrial software projects for US-based enterprise clients including Industrial Scientific Corporation (Pittsburgh, PA) — a global leader in industrial gas detection equipment (Gas Monitor, Gas Station product lines).*
+
+- **Agile Delivery & Facilitation:** Led sprint cycles, tracked progress, and removed blockers for an 11–15 member cross-functional team. Reduced blocker resolution time by 66% (3 days → same-day) through dashboard redesign. Managed delivery across 3 concurrent enterprise client programs.
+- **Requirements Engineering & Stakeholder Management:** Served as primary point of contact for US-based enterprise clients. Gathered and validated requirements across complex multi-instrument and multi-discipline programs — including hardware self-test specifications, device provisioning parameters, BDD test case authoring, and firmware flashing constraints. Conducted gap analysis, developed PRDs and user stories, and facilitated structured client alignment sessions throughout delivery.
+- **Embedded Systems Project Delivery:** Directed end-to-end delivery of projects spanning mechanical fixture design, custom PCBA development, STM32 firmware delivery management, device provisioning, AWS S3-backed manufacturing pipelines, and PC application development — coordinating mechanical, hardware, firmware, cloud, and software teams simultaneously across multiple concurrent ISC programs.
+- **Release Coordination:** Orchestrated software and firmware releases across embedded, QA, and client-facing teams. Managed Bitbucket-based code delivery and handover to client manufacturing and verification teams.
+- **Systems & Automation:** Built dashboards, tracked KPIs, and leveraged AI-assisted workflow automation for productivity. Reduced manual reporting effort by ~30%.
+- **Process Improvement:** Created SOPs and standardised workflows that reduced deliverable rework by ~20%. Leveraged Figma-based wireframing to validate feature flows with clients pre-development, reducing requirement ambiguity and design rework by ~25%.
 
 ---
 
@@ -79,7 +87,7 @@ Industrial Software • Embedded Systems • Verification & Validation (V&V) •
 
 Stepped away from full-time work to serve as primary caregiver for a family member with a long-term health condition. Maintained professional continuity through structured independent study.
 
-- Managed full-time healthcare coordination and multi-specialist scheduling, applying organizational and resource planning skills.
+- Managed full-time healthcare coordination and multi-specialist scheduling, applying organisational and resource planning skills.
 - Maintained professional continuity through structured independent study across project management methodologies, Agile frameworks, enterprise software trends, and product management literature.
 - Oversaw financial management, supplier coordination, and treatment logistics across multiple healthcare providers.
 
@@ -114,6 +122,21 @@ Dedicated this period to serving as primary caregiver for a family member with l
 
 ## KEY PROJECTS & CASE STUDIES
 
+### Automating Gas Monitor V&V with BDD Test Framework
+**Challenge:** Industrial Scientific Corporation's verification team relied on manual test procedures to validate Gas Monitor PCBAs — a time-intensive process prone to human error and difficult to scale as product complexity increased. A fully integrated hardware-software test automation solution was needed to accelerate V&V cycles without compromising compliance standards.
+**Strategy:** Managed end-to-end delivery of a custom HiL test automation system spanning mechanical, hardware, firmware, and software layers. Coordinated the mechanical team designing a custom fixture to hold the Unified Test Bench, Nail Bed Tester, and Gas Monitor PCBA; the hardware team building the Unified Test Bench (STM32 MCU, USB-interfaced to PC) with Pogo-pin connectivity for plug-and-play PCBA testing; the firmware team developing STM32 control logic; and the PC application team implementing a Reqnroll BDD framework with Gherkin-syntax test case authoring. Facilitated cross-team integration milestones and alignment sessions with ISC's verification engineering team throughout delivery.
+**Result:** Successfully delivered an end-to-end automated V&V test system integrating mechanical, hardware, firmware, and software components. Automated approximately 300 test cases previously executed manually, significantly reducing verification cycle time and enabling repeatable, scalable compliance testing for Gas Monitor hardware.
+
+### Delivering Manufacturing Pipeline for Gas Monitor Product Family
+**Challenge:** Industrial Scientific Corporation required a complete manufacturing pipeline for three instruments — Gas Flex Gas Monitor, Gas Station Cradle, and Gas Station Controller — covering hardware self-tests, device provisioning, and production firmware deployment before units shipped. Requirements complexity was high: test specifications for 7 hardware subsystems (NFC, BLE, LED, LCD pixels, vibrating motor, speaker, accelerometer) required precise definition, with clarity needed on test methodology for components like the accelerometer. Hardware availability for development and validation was limited, and aligning multiple client stakeholders across instrument teams added coordination complexity throughout the engagement.
+**Strategy:** Led requirements gathering across all three instruments through structured client meetings, clarifying hardware self-test specifications and resolving ambiguities — including accelerometer test methodology — before development began. Coordinated delivery across four pipeline stages: manufacturing self-test, device provisioning, production firmware deployment, and AWS S3-backed artifact distribution. Managed hardware availability constraints to maintain development momentum and facilitated ongoing client alignment sessions to keep stakeholder expectations consistent across instrument teams and pipeline stages.
+**Result:** Successfully delivered a complete end-to-end manufacturing pipeline covering 3 instruments across 4 stages — hardware self-testing, device provisioning, production firmware deployment, and AWS S3-backed infrastructure. Final code committed to Bitbucket and handed over to ISC's manufacturing team, enabling systematic, scalable hardware validation and device provisioning for each unit before production shipment.
+
+### Delivering Manufacturing Programming Fixtures for Gas Monitor Rollout
+**Challenge:** Industrial Scientific Corporation's manufacturing team required production-ready firmware programming fixtures before a fixed Gas Monitor rollout deadline. The Gas Flex programming fixture had to be operable by manufacturing technicians with no embedded systems background, support plug-and-play PCBA connectivity via Pogo pins, meet the manufacturing line's Takt time requirement, and survive multiple hardware and software iteration cycles under time pressure. A parallel project to deliver a 4-port USB hub-based programming fixture for DAS3 sensors ran concurrently under the same deadline.
+**Strategy:** Managed end-to-end delivery of the Gas Flex programming fixture — coordinating the hardware team designing two custom PCBAs (main programmer board and LED status indicator board), the firmware team developing STM32-based flashing logic, and the PC application team integrating STM Cube Programmer for the technician-facing interface. Managed iterative hardware and software revision cycles while maintaining deadline alignment with ISC stakeholders. Concurrently coordinated the DAS3 sensor programming fixture — covering electrical boards, mechanical fixture design, and off-the-shelf USB hub integration — with software integration handled by ISC's internal team.
+**Result:** Delivered both the Gas Flex programming fixture and the parallel DAS3 sensor programming fixture ahead of the Gas Monitor manufacturing rollout deadline. Both systems met manufacturing line Takt time requirements, enabling production floor deployment with plug-and-play Pogo-pin connectivity and no specialist embedded systems knowledge required from manufacturing technicians.
+
 ### Unblocking a Stalled QA Pipeline
 **Challenge:** The automated V&V test suite had fallen behind the main development branch, threatening a critical Q3 compliance milestone for a US-based industrial client.
 **Strategy:** Facilitated emergency alignment between engineering and client stakeholders. Adopted a reverse merge strategy to safely resolve legacy issues without altering production code.
@@ -124,15 +147,15 @@ Dedicated this period to serving as primary caregiver for a family member with l
 **Strategy:** Presented a data-backed gap analysis showing critical unknowns — undefined communication protocols and missing payload specifications — and walked the client through 3 specific test-failure scenarios.
 **Result:** Prevented 2 weeks of inefficient rework. Ensured compliance with safety standards. Maintained the project schedule.
 
+### Closing a Requirements Gap with Low-Fidelity Prototypes
+**Challenge:** A US client's requirements for a dashboard UI were ambiguous, risking misaligned development and costly rework.
+**Strategy:** Created low-fidelity Figma prototypes to visualise key UI states and user flows. Facilitated design-review sessions with the client to validate interactions before development began.
+**Result:** Achieved client sign-off in days rather than weeks. Significantly reduced UI rework and accelerated frontend development.
+
 ### Diagnosing a Hardware-Firmware Mismatch
 **Challenge:** NFC integration failures stalled the HiL test suite for three weeks due to a mismatch between legacy hardware and updated firmware protocols.
 **Strategy:** Led a cross-team investigation, facilitated deep-dive sessions with developers and client technical leads, and identified the hardware-version mismatch.
 **Result:** Successfully unblocked the NFC integration. Coordinated procurement of upgraded hardware. Delivered a clean code commit to Bitbucket.
-
-### Closing a Requirements Gap with Low-Fidelity Prototypes
-**Challenge:** A US client's requirements for a dashboard UI were ambiguous, risking misaligned development and costly rework.
-**Strategy:** Created low-fidelity Figma prototypes to visualize key UI states and user flows. Facilitated design-review sessions with the client to validate interactions before development began.
-**Result:** Achieved client sign-off in days rather than weeks. Significantly reduced UI rework and accelerated frontend development.
 
 ---
 
@@ -169,4 +192,4 @@ Dedicated this period to serving as primary caregiver for a family member with l
 - **Git & GitHub** — Version control, branching, pull requests, repository management, Markdown documentation
 - **Python** — Basic scripting for automation, document generation, and workflow support
 - **UX/UI Design & Figma** — "Beyond the Screen" UI/UX course by Muhammad Qasim (@uxkasim), covering wireframing, prototyping, component libraries, and design validation workflows
-- **AI & Automation** — Applied use of Claude, ChatGPT, and Copilot for delivery workflow optimisation and reporting automation
+- **AI & Automation** — Applied use of AI-assisted workflow automation for delivery optimisation and reporting
