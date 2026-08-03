@@ -4,8 +4,6 @@
 Location: Lahore, Pakistan | Email: [furqanuetian@hotmail.com](mailto:furqanuetian@hotmail.com) |
 GitHub: [furqanuetian](https://github.com/furqanuetian) | Notion Portfolio: [Furqan Rehmat — Portfolio](https://glow-potential-c65.notion.site/Furqan-Rehmat-Portfolio-3873d6c3ef738044a9f0ddf11ce00c48)
 
----
-
 ## PROFESSIONAL SUMMARY
 
 University Gold Medalist and Technical Project Manager with experience delivering complex embedded systems, hardware-software integration, and industrial software projects for US-based enterprise clients. Proven track record of leading cross-functional teams across mechanical, hardware, firmware, and software layers — managing requirements engineering, coordinating multi-disciplinary delivery, and driving accountability in regulated, safety-critical manufacturing environments. Strong background in SDLC governance, stakeholder management, and process optimization. Known for unblocking stalled technical programs, aligning globally distributed stakeholders, and delivering complex projects under hard manufacturing and compliance deadlines.
@@ -123,39 +121,93 @@ Dedicated this period to serving as primary caregiver for a family member with l
 ## KEY PROJECTS & CASE STUDIES
 
 ### Automating Gas Monitor V&V with BDD Test Framework
-**Challenge:** Industrial Scientific Corporation's verification team relied on manual test procedures to validate Gas Monitor PCBAs — a time-intensive process prone to human error and difficult to scale as product complexity increased. A fully integrated hardware-software test automation solution was needed to accelerate V&V cycles without compromising compliance standards.
-**Strategy:** Managed end-to-end delivery of a custom HiL test automation system spanning mechanical, hardware, firmware, and software layers. Coordinated the mechanical team designing a custom fixture to hold the Unified Test Bench, Nail Bed Tester, and Gas Monitor PCBA; the hardware team building the Unified Test Bench (STM32 MCU, USB-interfaced to PC) with Pogo-pin connectivity for plug-and-play PCBA testing; the firmware team developing STM32 control logic; and the PC application team implementing a Reqnroll BDD framework with Gherkin-syntax test case authoring. Facilitated cross-team integration milestones and alignment sessions with ISC's verification engineering team throughout delivery.
-**Result:** Successfully delivered an end-to-end automated V&V test system integrating mechanical, hardware, firmware, and software components. Automated approximately 300 test cases previously executed manually, significantly reducing verification cycle time and enabling repeatable, scalable compliance testing for Gas Monitor hardware.
+
+**Challenge:**
+Industrial Scientific Corporation's verification team relied on manual test procedures to validate Gas Monitor PCBAs — a time-intensive process prone to human error and difficult to scale as product complexity increased. A fully integrated hardware-software test automation solution was needed to accelerate V&V cycles without compromising compliance standards.
+
+**Strategy:**
+Managed end-to-end delivery of a custom HiL test automation system spanning mechanical, hardware, firmware, and software layers. Coordinated the mechanical team designing a custom fixture to hold the Unified Test Bench, Nail Bed Tester, and Gas Monitor PCBA; the hardware team building the Unified Test Bench (STM32 MCU, USB-interfaced to PC) with Pogo-pin connectivity for plug-and-play PCBA testing; the firmware team developing STM32 control logic; and the PC application team implementing a Reqnroll BDD framework with Gherkin-syntax test case authoring. Facilitated cross-team integration milestones and alignment sessions with ISC's verification engineering team throughout delivery.
+
+**Result:**
+Successfully delivered an end-to-end automated V&V test system integrating mechanical, hardware, firmware, and software components. Automated approximately 300 test cases previously executed manually, significantly reducing verification cycle time and enabling repeatable, scalable compliance testing for Gas Monitor hardware.
+
+---
 
 ### Delivering Manufacturing Pipeline for Gas Monitor Product Family
-**Challenge:** Industrial Scientific Corporation required a complete manufacturing pipeline for three instruments — Gas Flex Gas Monitor, Gas Station Cradle, and Gas Station Controller — covering hardware self-tests, device provisioning, and production firmware deployment before units shipped. Requirements complexity was high: test specifications for 7 hardware subsystems (NFC, BLE, LED, LCD pixels, vibrating motor, speaker, accelerometer) required precise definition, with clarity needed on test methodology for components like the accelerometer. Hardware availability for development and validation was limited, and aligning multiple client stakeholders across instrument teams added coordination complexity throughout the engagement.
-**Strategy:** Led requirements gathering across all three instruments through structured client meetings, clarifying hardware self-test specifications and resolving ambiguities — including accelerometer test methodology — before development began. Coordinated delivery across four pipeline stages: manufacturing self-test, device provisioning, production firmware deployment, and AWS S3-backed artifact distribution. Managed hardware availability constraints to maintain development momentum and facilitated ongoing client alignment sessions to keep stakeholder expectations consistent across instrument teams and pipeline stages.
-**Result:** Successfully delivered a complete end-to-end manufacturing pipeline covering 3 instruments across 4 stages — hardware self-testing, device provisioning, production firmware deployment, and AWS S3-backed infrastructure. Final code committed to Bitbucket and handed over to ISC's manufacturing team, enabling systematic, scalable hardware validation and device provisioning for each unit before production shipment.
+
+**Challenge:**
+Industrial Scientific Corporation required a complete manufacturing pipeline for three instruments — Gas Flex Gas Monitor, Gas Station Cradle, and Gas Station Controller — covering hardware self-tests, device provisioning, and production firmware deployment before units shipped. Requirements complexity was high: test specifications for 7 hardware subsystems (NFC, BLE, LED, LCD pixels, vibrating motor, speaker, accelerometer) required precise definition, with clarity needed on test methodology for components like the accelerometer. Hardware availability for development and validation was limited, and aligning multiple client stakeholders across instrument teams added coordination complexity throughout the engagement.
+
+**Strategy:**
+Led requirements gathering across all three instruments through structured client meetings, clarifying hardware self-test specifications and resolving ambiguities — including accelerometer test methodology — before development began. Coordinated delivery across four pipeline stages: manufacturing self-test, device provisioning, production firmware deployment, and AWS S3-backed artifact distribution. Managed hardware availability constraints to maintain development momentum and facilitated ongoing client alignment sessions to keep stakeholder expectations consistent across instrument teams and pipeline stages.
+
+**Result:**
+Successfully delivered a complete end-to-end manufacturing pipeline covering 3 instruments across 4 stages — hardware self-testing, device provisioning, production firmware deployment, and AWS S3-backed infrastructure. Final code committed to Bitbucket and handed over to ISC's manufacturing team, enabling systematic, scalable hardware validation and device provisioning for each unit before production shipment.
+
+---
 
 ### Delivering Manufacturing Programming Fixtures for Gas Monitor Rollout
-**Challenge:** Industrial Scientific Corporation's manufacturing team required production-ready firmware programming fixtures before a fixed Gas Monitor rollout deadline. The Gas Flex programming fixture had to be operable by manufacturing technicians with no embedded systems background, support plug-and-play PCBA connectivity via Pogo pins, meet the manufacturing line's Takt time requirement, and survive multiple hardware and software iteration cycles under time pressure. A parallel project to deliver a 4-port USB hub-based programming fixture for DAS3 sensors ran concurrently under the same deadline.
-**Strategy:** Managed end-to-end delivery of the Gas Flex programming fixture — coordinating the hardware team designing two custom PCBAs (main programmer board and LED status indicator board), the firmware team developing STM32-based flashing logic, and the PC application team integrating STM Cube Programmer for the technician-facing interface. Managed iterative hardware and software revision cycles while maintaining deadline alignment with ISC stakeholders. Concurrently coordinated the DAS3 sensor programming fixture — covering electrical boards, mechanical fixture design, and off-the-shelf USB hub integration — with software integration handled by ISC's internal team.
-**Result:** Delivered both the Gas Flex programming fixture and the parallel DAS3 sensor programming fixture ahead of the Gas Monitor manufacturing rollout deadline. Both systems met manufacturing line Takt time requirements, enabling production floor deployment with plug-and-play Pogo-pin connectivity and no specialist embedded systems knowledge required from manufacturing technicians.
+
+**Challenge:**
+Industrial Scientific Corporation's manufacturing team required production-ready firmware programming fixtures before a fixed Gas Monitor rollout deadline. The Gas Flex programming fixture had to be operable by manufacturing technicians with no embedded systems background, support plug-and-play PCBA connectivity via Pogo pins, meet the manufacturing line's Takt time requirement, and survive multiple hardware and software iteration cycles under time pressure. A parallel project to deliver a 4-port USB hub-based programming fixture for DAS3 sensors ran concurrently under the same deadline.
+
+**Strategy:**
+Managed end-to-end delivery of the Gas Flex programming fixture — coordinating the hardware team designing two custom PCBAs (main programmer board and LED status indicator board), the firmware team developing STM32-based flashing logic, and the PC application team integrating STM Cube Programmer for the technician-facing interface. Managed iterative hardware and software revision cycles while maintaining deadline alignment with ISC stakeholders. Concurrently coordinated the DAS3 sensor programming fixture — covering electrical boards, mechanical fixture design, and off-the-shelf USB hub integration — with software integration handled by ISC's internal team.
+
+**Result:**
+Delivered both the Gas Flex programming fixture and the parallel DAS3 sensor programming fixture ahead of the Gas Monitor manufacturing rollout deadline. Both systems met manufacturing line Takt time requirements, enabling production floor deployment with plug-and-play Pogo-pin connectivity and no specialist embedded systems knowledge required from manufacturing technicians.
+
+---
 
 ### Unblocking a Stalled QA Pipeline
-**Challenge:** The automated V&V test suite had fallen behind the main development branch, threatening a critical Q3 compliance milestone for a US-based industrial client.
-**Strategy:** Facilitated emergency alignment between engineering and client stakeholders. Adopted a reverse merge strategy to safely resolve legacy issues without altering production code.
-**Result:** Avoided an estimated 15-day schedule slippage, delivered 20+ technical packages on time, and protected a critical compliance milestone.
+
+**Challenge:**
+The automated V&V test suite had fallen behind the main development branch, threatening a critical Q3 compliance milestone for a US-based industrial client.
+
+**Strategy:**
+Facilitated emergency alignment between engineering and client stakeholders. Adopted a reverse merge strategy to safely resolve legacy issues without altering production code.
+
+**Result:**
+Avoided an estimated 15-day schedule slippage, delivered 20+ technical packages on time, and protected a critical compliance milestone.
+
+---
 
 ### Holding the Line on Requirements
-**Challenge:** A US client pushed to start development on incomplete requirements, risking significant rework and safety compliance issues.
-**Strategy:** Presented a data-backed gap analysis showing critical unknowns — undefined communication protocols and missing payload specifications — and walked the client through 3 specific test-failure scenarios.
-**Result:** Prevented 2 weeks of inefficient rework. Ensured compliance with safety standards. Maintained the project schedule.
+
+**Challenge:**
+A US client pushed to start development on incomplete requirements, risking significant rework and safety compliance issues.
+
+**Strategy:**
+Presented a data-backed gap analysis showing critical unknowns — undefined communication protocols and missing payload specifications — and walked the client through 3 specific test-failure scenarios.
+
+**Result:**
+Prevented 2 weeks of inefficient rework. Ensured compliance with safety standards. Maintained the project schedule.
+
+---
 
 ### Closing a Requirements Gap with Low-Fidelity Prototypes
-**Challenge:** A US client's requirements for a dashboard UI were ambiguous, risking misaligned development and costly rework.
-**Strategy:** Created low-fidelity Figma prototypes to visualise key UI states and user flows. Facilitated design-review sessions with the client to validate interactions before development began.
-**Result:** Achieved client sign-off in days rather than weeks. Significantly reduced UI rework and accelerated frontend development.
+
+**Challenge:**
+A US client's requirements for a dashboard UI were ambiguous, risking misaligned development and costly rework.
+
+**Strategy:**
+Created low-fidelity Figma prototypes to visualise key UI states and user flows. Facilitated design-review sessions with the client to validate interactions before development began.
+
+**Result:**
+Achieved client sign-off in days rather than weeks. Significantly reduced UI rework and accelerated frontend development.
+
+---
 
 ### Diagnosing a Hardware-Firmware Mismatch
-**Challenge:** NFC integration failures stalled the HiL test suite for three weeks due to a mismatch between legacy hardware and updated firmware protocols.
-**Strategy:** Led a cross-team investigation, facilitated deep-dive sessions with developers and client technical leads, and identified the hardware-version mismatch.
-**Result:** Successfully unblocked the NFC integration. Coordinated procurement of upgraded hardware. Delivered a clean code commit to Bitbucket.
+
+**Challenge:**
+NFC integration failures stalled the HiL test suite for three weeks due to a mismatch between legacy hardware and updated firmware protocols.
+
+**Strategy:**
+Led a cross-team investigation, facilitated deep-dive sessions with developers and client technical leads, and identified the hardware-version mismatch.
+
+**Result:**
+Successfully unblocked the NFC integration. Coordinated procurement of upgraded hardware. Delivered a clean code commit to Bitbucket.
 
 ---
 
